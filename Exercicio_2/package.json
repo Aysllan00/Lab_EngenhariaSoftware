@@ -1,0 +1,15 @@
+{
+  "name": "exercicio_2",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayslan",
+  "license": "MIT",
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
