@@ -25,7 +25,7 @@
 
 - [x] Exercicio 1
 - [x] Exercicio 2
-- [ ] Exercicio 3
+- [x] Exercicio 3
 - [ ] Exercicio 4
 - [ ] Exercicio 5
 
@@ -51,9 +51,19 @@ $ cd Lab_EngenhariaSoftware
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ npm start
 
 ```
+
+---
+## Para o Exercicio 3:
+
+Para rodar o servidor, basta seguir a ordem de execução acima. O servidor será rodado pelo arquivo principal server.js na porta 4001.
+
+O projeto conta como aplicação de API para filmes, contendo o nome, a produtora, atores e o ano. A API contem duas aplicaçãoes: POST, para enviar os dados ao banco e GET, para listar todos as informações salvas no banco.
+
+Esse exercicio conta com o uso do Banco de Dados MongoDB e um framework para a API, que no caso é usado o Postman.
+
  
 ---
 
