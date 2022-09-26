@@ -64,6 +64,11 @@ O projeto conta como aplicação de API para filmes, contendo o nome, a produtor
 
 Esse exercicio conta com o uso do Banco de Dados MongoDB e um framework para a API, que no caso é usado o Postman.
 
+  - Utilize o comando a seguir para executar os testes:
+ ```
+ npm test
+ ```
+
  
 ---
 
