@@ -26,7 +26,7 @@
 - [x] Exercicio 1
 - [x] Exercicio 2
 - [x] Exercicio 3
-- [ ] Exercicio 4
+- [x] Exercicio 4
 - [ ] Exercicio 5
 
 ## 🚀 Como executar o projeto
@@ -61,6 +61,23 @@ $ npm start
 Para rodar o servidor, basta seguir a ordem de execução acima. O servidor será rodado pelo arquivo principal server.js na porta 4001.
 
 O projeto conta como aplicação de API para filmes, contendo o nome, a produtora, atores e o ano. A API contem duas aplicaçãoes: POST, para enviar os dados ao banco e GET, para listar todos as informações salvas no banco.
+
+Esse exercicio conta com o uso do Banco de Dados MongoDB e um framework para a API, que no caso é usado o Postman.
+
+  - Utilize o comando a seguir para executar os testes:
+ ```
+ npm test
+ ```
+
+ 
+---
+
+---
+## Para o Exercicio 4:
+
+Para rodar o servidor, basta seguir a ordem de execução acima. O servidor será rodado pelo arquivo principal server.js na porta 5001.
+
+O projeto conta como aplicação de API para carros, contendo o fabricante, o ano, tipo de combustivel e o cambio. A API contem todas as aplicações de CRUD.
 
 Esse exercicio conta com o uso do Banco de Dados MongoDB e um framework para a API, que no caso é usado o Postman.
 
