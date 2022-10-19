@@ -22,7 +22,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/push-subdir@v3
+      uses: Exercicio_4/push-subdir@v3
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i -g npm@8.3.1 --registry=https://registry.npmjs.org
