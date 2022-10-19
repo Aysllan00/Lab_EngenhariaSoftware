@@ -23,17 +23,11 @@
 
 ## 💻 Exercicios
 
-- [x] [Exercicio 1]
-- [x] [Exercicio 2]
-- [x] [Exercicio 3]
-- [x] [Exercicio 4]
-- [ ] [Exercicio 5]
-
--  [Aula 2 - Revisao de Orientacao a Objetos](Aula2)
--  [Aula 3 - Gerência de dependencias](Aula3)
--  [Aula 6 - API](Aula6)
--  [Aula 7 - Teste unitário](Aula7)
-
+-  [x] [Exercicio 1](Exercicio_1)
+-  [x] [Exercicio 2](Exercicio_2)
+-  [x] [Exercicio 3](Exercicio_3)
+-  [x] [Exercicio 4](Exercicio_4)
+-  [ ] [Exercicio 5]
 
 ## 🚀 Como executar o projeto
 
