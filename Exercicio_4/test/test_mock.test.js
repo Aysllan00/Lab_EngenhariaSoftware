@@ -1,6 +1,7 @@
 const { UserModel } = require('../src/infrastructure/database');
 const user = require('../src/port/user_repository');
 
+
 describe('create', () => {
     it('Valid User', async () => {
         UserModel.prototype.save = jest.fn().mockImplementation(() => ({
