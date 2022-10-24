@@ -27,7 +27,7 @@
 -  [x] [Exercicio 2](Exercicio_2)
 -  [x] [Exercicio 3](Exercicio_3)
 -  [x] [Exercicio 4](Exercicio_4)
--  [ ] [Exercicio 5]
+-  [x] [Exercicio 5](Exercicio_5)
 
 ## 🚀 Como executar o projeto
 
