@@ -28,6 +28,7 @@
 -  [x] [Exercicio 3](Exercicio_3)
 -  [x] [Exercicio 4](Exercicio_4)
 -  [x] [Exercicio 5](Exercicio_5)
+-  [x] [Exercicio 6](Exercicio_6)
 
 ## 🚀 Como executar o projeto
 
@@ -85,7 +86,18 @@ Esse exercicio conta com o uso do Banco de Dados MongoDB e um framework para a A
  ```
  npm test
  ```
+ 
+ 
+---
+## Para o Exercicio 6:
 
+Para rodar o servidor, basta seguir a ordem de execução acima.
+
+O projeto conta como aplicação de API para carros, contendo o fabricante, o ano, tipo de combustivel e o cambio. A API contem todas as aplicações de CRUD.
+
+Esse exercicio conta com o uso do Banco de Dados MongoDB e o framework React.js para a aplicação.
+
+Para rodar o servidor do Exercicio_6 é necessario rodar o Exercicio_4.
  
 ---
 
