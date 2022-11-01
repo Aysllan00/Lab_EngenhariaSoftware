@@ -15,8 +15,10 @@ const User = {
             }
 
             data.id = Utils.generateUuid();
+            console.log(data);
 
             const response = await UserRepository.create(data);
+            console.log(response);
 
             if (response.code === 11000) {
                 const result = Constants.ErrorDuplicate;

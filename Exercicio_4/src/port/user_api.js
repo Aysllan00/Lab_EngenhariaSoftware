@@ -24,8 +24,11 @@ module.exports = (app) => {
         res.status(Utils.responseStatus(response.name));
         res.json(response);
     });
-    app.delete(`${route}/delete`, async (req, res) => {
-        const response = await User.delete(req.body);
+    app.delete(`${route}/delete/:fabricante`, async (req, res) => {
+        const data = req.body;
+        const { fabricante } = req.params;
+        data.fabricante = fabricante;
+        const response = await User.delete(data);
         res.status(Utils.responseStatus(response.name));
         res.json(response);
     });
